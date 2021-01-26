@@ -6,9 +6,9 @@ How to add this plugin to OpenOSRS
 
 2: Click add repository
 
-3: Repository owner: InfernoZukPluginOpenOsrs
+3: Repository owner: `InfernoZukPluginOpenOsrs`
 
-4: Repository name: InfernoZukPluginOpenOSRS
+4: Repository name: `InfernoZukPluginOpenOSRS`
 
 
 
